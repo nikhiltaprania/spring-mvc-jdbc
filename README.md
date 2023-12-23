@@ -13,7 +13,7 @@ Welcome to the Student Management System project! This web application is built 
 
 ## Preview
 
-![Student Management](src/main/resources/static/images/image1.png)
+![Student Management](./StudentManagement/src/main/resources/static/images/image1.png)
 
 ## How to Download and Configure
 
